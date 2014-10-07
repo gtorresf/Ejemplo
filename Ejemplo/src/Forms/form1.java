@@ -41,7 +41,7 @@ public class form1 {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 450, 300);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		
+		//Agregando comentario
 		JComboBox comboBox = new JComboBox();
 		frame.getContentPane().add(comboBox, BorderLayout.WEST);
 		
