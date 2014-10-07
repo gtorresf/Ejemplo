@@ -7,5 +7,8 @@ public class HolaMundo {
 		// Added from the Github website!!!
 		System.out.println("Hola Mundo! [UPDATE]"); 
 	}
-
+	public void hola(){
+			
+	}
+	
 }
